@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: react
-        image: manlineroot12/react-app:testing
+        image: beerussama2/react-app:testing
         imagePullPolicy: Always
         ports:
         - containerPort: 80
